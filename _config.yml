@@ -1,0 +1,28 @@
+name: concept
+favicon: null
+layout_spectrum: 0.08628242928534746
+typography_spectrum: 0.5789985463488847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9951442102901638
+  lightness: 0.2166285200510174
+  saturation: 0.46089172130450606
+  rhythmicContrast: 0.6560501751955599
+purpose: []
